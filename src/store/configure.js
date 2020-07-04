@@ -1,6 +1,8 @@
 import { createStore, combineReducers } from 'redux';
+import UserInformation from './user/UserInformation';
 
 const modules = combineReducers({
+    UserInformation,
 
 });
 
