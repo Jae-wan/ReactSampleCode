@@ -1,1 +1,1 @@
-* Redux 사용을 위한 Sample Code.
+Using React Sample Code
